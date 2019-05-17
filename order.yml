@@ -18,6 +18,7 @@ server:
 PRODUCT:
   ribbon:
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule    # 修改负载均衡的方式，这里是改为了随机
-
-
-
+env:
+  devlalala
+person:
+  name:jyx啦啦啦
